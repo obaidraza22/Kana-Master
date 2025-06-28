@@ -1,0 +1,21 @@
+.container {
+  width: 100vw;
+  background-color: #0d1b2a;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.main {
+  margin-left: 100px;
+  max-width: 1000px;
+  width: 100%;
+  height: 100%;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 16px;
+  padding: 24px;
+  justify-content: center;
+  align-content: center;
+}

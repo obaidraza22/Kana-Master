@@ -1,0 +1,162 @@
+[
+  { "id": 1, "kana": "ア", "romaji": "a", "example": "アメ (ame) - rain" },
+  { "id": 2, "kana": "イ", "romaji": "i", "example": "イヌ (inu) - dog" },
+  { "id": 3, "kana": "ウ", "romaji": "u", "example": "ウミ (umi) - sea" },
+  { "id": 4, "kana": "エ", "romaji": "e", "example": "エキ (eki) - station" },
+  { "id": 5, "kana": "オ", "romaji": "o", "example": "オチャ (ocha) - tea" },
+
+  {
+    "id": 6,
+    "kana": "カ",
+    "romaji": "ka",
+    "example": "カサ (kasa) - umbrella"
+  },
+  {
+    "id": 7,
+    "kana": "キ",
+    "romaji": "ki",
+    "example": "キツネ (kitsune) - fox"
+  },
+  { "id": 8, "kana": "ク", "romaji": "ku", "example": "クマ (kuma) - bear" },
+  {
+    "id": 9,
+    "kana": "ケ",
+    "romaji": "ke",
+    "example": "ケムシ (kemushi) - caterpillar"
+  },
+  {
+    "id": 10,
+    "kana": "コ",
+    "romaji": "ko",
+    "example": "コドモ (kodomo) - child"
+  },
+
+  {
+    "id": 11,
+    "kana": "サ",
+    "romaji": "sa",
+    "example": "サカナ (sakana) - fish"
+  },
+  {
+    "id": 12,
+    "kana": "シ",
+    "romaji": "shi",
+    "example": "シロ (shiro) - white"
+  },
+  { "id": 13, "kana": "ス", "romaji": "su", "example": "スシ (sushi) - sushi" },
+  { "id": 14, "kana": "セ", "romaji": "se", "example": "セミ (semi) - cicada" },
+  { "id": 15, "kana": "ソ", "romaji": "so", "example": "ソラ (sora) - sky" },
+
+  {
+    "id": 16,
+    "kana": "タ",
+    "romaji": "ta",
+    "example": "タマゴ (tamago) - egg"
+  },
+  { "id": 17, "kana": "チ", "romaji": "chi", "example": "チズ (chizu) - map" },
+  { "id": 18, "kana": "ツ", "romaji": "tsu", "example": "ツキ (tsuki) - moon" },
+  {
+    "id": 19,
+    "kana": "テ",
+    "romaji": "te",
+    "example": "テガミ (tegami) - letter"
+  },
+  { "id": 20, "kana": "ト", "romaji": "to", "example": "トリ (tori) - bird" },
+
+  {
+    "id": 21,
+    "kana": "ナ",
+    "romaji": "na",
+    "example": "ナツ (natsu) - summer"
+  },
+  { "id": 22, "kana": "ニ", "romaji": "ni", "example": "ニク (niku) - meat" },
+  { "id": 23, "kana": "ヌ", "romaji": "nu", "example": "ヌノ (nuno) - cloth" },
+  { "id": 24, "kana": "ネ", "romaji": "ne", "example": "ネコ (neko) - cat" },
+  {
+    "id": 25,
+    "kana": "ノ",
+    "romaji": "no",
+    "example": "ノリ (nori) - seaweed"
+  },
+
+  { "id": 26, "kana": "ハ", "romaji": "ha", "example": "ハナ (hana) - flower" },
+  {
+    "id": 27,
+    "kana": "ヒ",
+    "romaji": "hi",
+    "example": "ヒコウキ (hikouki) - airplane"
+  },
+  { "id": 28, "kana": "フ", "romaji": "fu", "example": "フネ (fune) - ship" },
+  { "id": 29, "kana": "ヘ", "romaji": "he", "example": "ヘヤ (heya) - room" },
+  { "id": 30, "kana": "ホ", "romaji": "ho", "example": "ホシ (hoshi) - star" },
+
+  { "id": 31, "kana": "マ", "romaji": "ma", "example": "マド (mado) - window" },
+  { "id": 32, "kana": "ミ", "romaji": "mi", "example": "ミズ (mizu) - water" },
+  {
+    "id": 33,
+    "kana": "ム",
+    "romaji": "mu",
+    "example": "ムシ (mushi) - insect"
+  },
+  {
+    "id": 34,
+    "kana": "メ",
+    "romaji": "me",
+    "example": "メガネ (megane) - glasses"
+  },
+  { "id": 35, "kana": "モ", "romaji": "mo", "example": "モリ (mori) - forest" },
+
+  {
+    "id": 36,
+    "kana": "ヤ",
+    "romaji": "ya",
+    "example": "ヤマ (yama) - mountain"
+  },
+  { "id": 37, "kana": "ユ", "romaji": "yu", "example": "ユキ (yuki) - snow" },
+  { "id": 38, "kana": "ヨ", "romaji": "yo", "example": "ヨル (yoru) - night" },
+
+  {
+    "id": 39,
+    "kana": "ラ",
+    "romaji": "ra",
+    "example": "ライオン (raion) - lion"
+  },
+  {
+    "id": 40,
+    "kana": "リ",
+    "romaji": "ri",
+    "example": "リス (risu) - squirrel"
+  },
+  {
+    "id": 41,
+    "kana": "ル",
+    "romaji": "ru",
+    "example": "ルス (rusu) - absence"
+  },
+  {
+    "id": 42,
+    "kana": "レ",
+    "romaji": "re",
+    "example": "レイゾウコ (reizouko) - refrigerator"
+  },
+  {
+    "id": 43,
+    "kana": "ロ",
+    "romaji": "ro",
+    "example": "ロウソク (rousoku) - candle"
+  },
+
+  {
+    "id": 44,
+    "kana": "ワ",
+    "romaji": "wa",
+    "example": "ワニ (wani) - crocodile"
+  },
+  {
+    "id": 45,
+    "kana": "ヲ",
+    "romaji": "wo",
+    "example": "パンヲタベル (pan wo taberu) - eat bread"
+  },
+  { "id": 46, "kana": "ン", "romaji": "n", "example": "ホン (hon) - book" }
+]
