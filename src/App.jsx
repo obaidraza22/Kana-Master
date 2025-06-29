@@ -11,7 +11,9 @@ function App() {
       <Routes>
         <Route index element={<Homepage />} />
         <Route path="/hiragana" element={<Hiragana />} />
+        <Route path="/hiragana/:kana" element={<Hiragana />} />
         <Route path="/katakana" element={<Katakana />} />
+        <Route path="/katakana/:kana" element={<Katakana />} />
         <Route path="/path" element={<Path />} />
         <Route path="quiz" element={<Quiz />} />
       </Routes>

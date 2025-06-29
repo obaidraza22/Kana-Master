@@ -2,15 +2,18 @@ import { useContext } from "react";
 import styles from "../Modules/Detail.module.css";
 import { createPortal } from "react-dom";
 import { KanaContext } from "../Context/KanaContext";
+import { useNavigate } from "react-router-dom";
 
 function Detail({ kana }) {
   const { setSelectedKana } = useContext(KanaContext);
+  const navigate = useNavigate();
 
   return createPortal(
     <div
       className={styles.container}
       onClick={() => {
         setSelectedKana(null);
+        navigate(-1);
       }}
     >
       <div className={styles.main} onClick={(e) => e.stopPropagation()}>
