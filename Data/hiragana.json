@@ -1,162 +1,370 @@
 [
-  { "id": 1, "kana": "あ", "romaji": "a", "example": "あめ (ame) - rain" },
-  { "id": 2, "kana": "い", "romaji": "i", "example": "いぬ (inu) - dog" },
-  { "id": 3, "kana": "う", "romaji": "u", "example": "うみ (umi) - sea" },
-  { "id": 4, "kana": "え", "romaji": "e", "example": "えき (eki) - station" },
-  { "id": 5, "kana": "お", "romaji": "o", "example": "おちゃ (ocha) - tea" },
-
+  {
+    "id": 1,
+    "kana": "あ",
+    "romaji": "a",
+    "example": "あめ (ame) - rain",
+    "img": "../Assets/hiragana/a.gif",
+    "mnemonic": "Looks like an antenna — 'a' for antenna"
+  },
+  {
+    "id": 2,
+    "kana": "い",
+    "romaji": "i",
+    "example": "いぬ (inu) - dog",
+    "img": "../Assets/hiragana/i.gif",
+    "mnemonic": "Two parallel lines like two eels — 'i' for eel"
+  },
+  {
+    "id": 3,
+    "kana": "う",
+    "romaji": "u",
+    "example": "うみ (umi) - sea",
+    "img": "../Assets/hiragana/u.gif",
+    "mnemonic": "Looks like a bird saying 'oo!' — 'u' sound"
+  },
+  {
+    "id": 4,
+    "kana": "え",
+    "romaji": "e",
+    "example": "えき (eki) - station",
+    "img": "../Assets/hiragana/e.gif",
+    "mnemonic": "Looks like an energetic person — 'e' for energy"
+  },
+  {
+    "id": 5,
+    "kana": "お",
+    "romaji": "o",
+    "example": "おちゃ (ocha) - tea",
+    "img": "../Assets/hiragana/o.gif",
+    "mnemonic": "Has a round shape like an 'o'"
+  },
   {
     "id": 6,
     "kana": "か",
     "romaji": "ka",
-    "example": "かさ (kasa) - umbrella"
+    "example": "かさ (kasa) - umbrella",
+    "img": "../Assets/hiragana/ka.gif",
+    "mnemonic": "Looks like a cut from a katana — 'ka' for katana"
   },
   {
     "id": 7,
     "kana": "き",
     "romaji": "ki",
-    "example": "きつね (kitsune) - fox"
+    "example": "きつね (kitsune) - fox",
+    "img": "../Assets/hiragana/ki.gif",
+    "mnemonic": "Resembles a key — 'ki' for key"
   },
-  { "id": 8, "kana": "く", "romaji": "ku", "example": "くま (kuma) - bear" },
+  {
+    "id": 8,
+    "kana": "く",
+    "romaji": "ku",
+    "example": "くま (kuma) - bear",
+    "img": "../Assets/hiragana/ku.gif",
+    "mnemonic": "Looks like a bird’s beak — 'ku' sound like a bird"
+  },
   {
     "id": 9,
     "kana": "け",
     "romaji": "ke",
-    "example": "けむし (kemushi) - caterpillar"
+    "example": "けむし (kemushi) - caterpillar",
+    "img": "../Assets/hiragana/ke.gif",
+    "mnemonic": "Looks like a keg with a tap — 'ke' for keg"
   },
   {
     "id": 10,
     "kana": "こ",
     "romaji": "ko",
-    "example": "こども (kodomo) - child"
+    "example": "こども (kodomo) - child",
+    "img": "../Assets/hiragana/ko.gif",
+    "mnemonic": "Two lines like two corners — 'ko' for corner"
   },
-
   {
     "id": 11,
     "kana": "さ",
     "romaji": "sa",
-    "example": "さかな (sakana) - fish"
+    "example": "さかな (sakana) - fish",
+    "img": "../Assets/hiragana/sa.gif",
+    "mnemonic": "Looks like a samurai sword — 'sa' for samurai"
   },
   {
     "id": 12,
     "kana": "し",
     "romaji": "shi",
-    "example": "しろ (shiro) - white"
+    "example": "しろ (shiro) - white",
+    "img": "../Assets/hiragana/shi.gif",
+    "mnemonic": "Looks like a hook — 'she hooks' it"
   },
-  { "id": 13, "kana": "す", "romaji": "su", "example": "すし (sushi) - sushi" },
-  { "id": 14, "kana": "せ", "romaji": "se", "example": "せみ (semi) - cicada" },
-  { "id": 15, "kana": "そ", "romaji": "so", "example": "そら (sora) - sky" },
-
+  {
+    "id": 13,
+    "kana": "す",
+    "romaji": "su",
+    "example": "すし (sushi) - sushi",
+    "img": "../Assets/hiragana/su.gif",
+    "mnemonic": "Looks like a swirl — 'su' for swirl"
+  },
+  {
+    "id": 14,
+    "kana": "せ",
+    "romaji": "se",
+    "example": "せみ (semi) - cicada",
+    "img": "../Assets/hiragana/se.gif",
+    "mnemonic": "Looks like a centipede crawling — 'se' for centipede"
+  },
+  {
+    "id": 15,
+    "kana": "そ",
+    "romaji": "so",
+    "example": "そら (sora) - sky",
+    "img": "../Assets/hiragana/so.gif",
+    "mnemonic": "Two separate strokes — 'so' split apart"
+  },
   {
     "id": 16,
     "kana": "た",
     "romaji": "ta",
-    "example": "たまご (tamago) - egg"
+    "example": "たまご (tamago) - egg",
+    "img": "../Assets/hiragana/ta.gif",
+    "mnemonic": "Looks like a T shape — 'ta' for T"
   },
-  { "id": 17, "kana": "ち", "romaji": "chi", "example": "ちず (chizu) - map" },
-  { "id": 18, "kana": "つ", "romaji": "tsu", "example": "つき (tsuki) - moon" },
+  {
+    "id": 17,
+    "kana": "ち",
+    "romaji": "chi",
+    "example": "ちず (chizu) - map",
+    "img": "../Assets/hiragana/chi.gif",
+    "mnemonic": "Looks like a chicken’s beak — 'chi' for chicken"
+  },
+  {
+    "id": 18,
+    "kana": "つ",
+    "romaji": "tsu",
+    "example": "つき (tsuki) - moon",
+    "img": "../Assets/hiragana/tsu.gif",
+    "mnemonic": "Two droplets — 'tsu' for tsunami"
+  },
   {
     "id": 19,
     "kana": "て",
     "romaji": "te",
-    "example": "てがみ (tegami) - letter"
+    "example": "てがみ (tegami) - letter",
+    "img": "../Assets/hiragana/te.gif",
+    "mnemonic": "Looks like a telephone pole — 'te' for telephone"
   },
-  { "id": 20, "kana": "と", "romaji": "to", "example": "とり (tori) - bird" },
-
+  {
+    "id": 20,
+    "kana": "と",
+    "romaji": "to",
+    "example": "とり (tori) - bird",
+    "img": "../Assets/hiragana/to.gif",
+    "mnemonic": "Looks like a toe with a toenail — 'to' for toe"
+  },
   {
     "id": 21,
     "kana": "な",
     "romaji": "na",
-    "example": "なつ (natsu) - summer"
+    "example": "なつ (natsu) - summer",
+    "img": "../Assets/hiragana/na.gif",
+    "mnemonic": "Looks like a knot — 'na' for knot"
   },
-  { "id": 22, "kana": "に", "romaji": "ni", "example": "にく (niku) - meat" },
-  { "id": 23, "kana": "ぬ", "romaji": "nu", "example": "ぬの (nuno) - cloth" },
-  { "id": 24, "kana": "ね", "romaji": "ne", "example": "ねこ (neko) - cat" },
+  {
+    "id": 22,
+    "kana": "に",
+    "romaji": "ni",
+    "example": "にく (niku) - meat",
+    "img": "../Assets/hiragana/ni.gif",
+    "mnemonic": "Looks like two needles — 'ni' for needle"
+  },
+  {
+    "id": 23,
+    "kana": "ぬ",
+    "romaji": "nu",
+    "example": "ぬの (nuno) - cloth",
+    "img": "../Assets/hiragana/nu.gif",
+    "mnemonic": "Looks like a looped thread — 'nu' for noodle"
+  },
+  {
+    "id": 24,
+    "kana": "ね",
+    "romaji": "ne",
+    "example": "ねこ (neko) - cat",
+    "img": "../Assets/hiragana/ne.gif",
+    "mnemonic": "Looks like a cat curled up — 'ne' for neko (cat)"
+  },
   {
     "id": 25,
     "kana": "の",
     "romaji": "no",
-    "example": "のり (nori) - seaweed"
+    "example": "のり (nori) - seaweed",
+    "img": "../Assets/hiragana/no.gif",
+    "mnemonic": "Looks like a no sign — 'no' circle"
   },
-
-  { "id": 26, "kana": "は", "romaji": "ha", "example": "はな (hana) - flower" },
+  {
+    "id": 26,
+    "kana": "は",
+    "romaji": "ha",
+    "example": "はな (hana) - flower",
+    "img": "../Assets/hiragana/ha.gif",
+    "mnemonic": "Looks like a house roof — 'ha' for house"
+  },
   {
     "id": 27,
     "kana": "ひ",
     "romaji": "hi",
-    "example": "ひこうき (hikouki) - airplane"
+    "example": "ひこうき (hikouki) - airplane",
+    "img": "../Assets/hiragana/hi.gif",
+    "mnemonic": "Looks like he is flying — 'hi' for him flying"
   },
-  { "id": 28, "kana": "ふ", "romaji": "fu", "example": "ふね (fune) - ship" },
-  { "id": 29, "kana": "へ", "romaji": "he", "example": "へや (heya) - room" },
-  { "id": 30, "kana": "ほ", "romaji": "ho", "example": "ほし (hoshi) - star" },
-
-  { "id": 31, "kana": "ま", "romaji": "ma", "example": "まど (mado) - window" },
-  { "id": 32, "kana": "み", "romaji": "mi", "example": "みず (mizu) - water" },
+  {
+    "id": 28,
+    "kana": "ふ",
+    "romaji": "fu",
+    "example": "ふね (fune) - ship",
+    "img": "../Assets/hiragana/fu.gif",
+    "mnemonic": "Looks like Mount Fuji — 'fu' for Fuji"
+  },
+  {
+    "id": 29,
+    "kana": "へ",
+    "romaji": "he",
+    "example": "へや (heya) - room",
+    "img": "../Assets/hiragana/he.gif",
+    "mnemonic": "Looks like a roof or arrow — 'he' for house or head"
+  },
+  {
+    "id": 30,
+    "kana": "ほ",
+    "romaji": "ho",
+    "example": "ほし (hoshi) - star",
+    "img": "../Assets/hiragana/ho.gif",
+    "mnemonic": "Looks like a hotplate — 'ho' for hot"
+  },
+  {
+    "id": 31,
+    "kana": "ま",
+    "romaji": "ma",
+    "example": "まど (mado) - window",
+    "img": "../Assets/hiragana/ma.gif",
+    "mnemonic": "Looks like a mama’s hand — 'ma' for mama"
+  },
+  {
+    "id": 32,
+    "kana": "み",
+    "romaji": "mi",
+    "example": "みず (mizu) - water",
+    "img": "../Assets/hiragana/mi.gif",
+    "mnemonic": "Looks like three minnows — 'mi' for minnow"
+  },
   {
     "id": 33,
     "kana": "む",
     "romaji": "mu",
-    "example": "むし (mushi) - insect"
+    "example": "むし (mushi) - insect",
+    "img": "../Assets/hiragana/mu.gif",
+    "mnemonic": "Looks like a cow’s muzzle — 'mu' for moo"
   },
   {
     "id": 34,
     "kana": "め",
     "romaji": "me",
-    "example": "めがね (megane) - glasses"
+    "example": "めがね (megane) - glasses",
+    "img": "../Assets/hiragana/me.gif",
+    "mnemonic": "Looks like an eye — 'me' for me (my eye)"
   },
-  { "id": 35, "kana": "も", "romaji": "mo", "example": "もり (mori) - forest" },
-
+  {
+    "id": 35,
+    "kana": "も",
+    "romaji": "mo",
+    "example": "もり (mori) - forest",
+    "img": "../Assets/hiragana/mo.gif",
+    "mnemonic": "Looks like more hooks — 'mo' for more"
+  },
   {
     "id": 36,
     "kana": "や",
     "romaji": "ya",
-    "example": "やま (yama) - mountain"
+    "example": "やま (yama) - mountain",
+    "img": "../Assets/hiragana/ya.gif",
+    "mnemonic": "Looks like a yak’s horn — 'ya' for yak"
   },
-  { "id": 37, "kana": "ゆ", "romaji": "yu", "example": "ゆき (yuki) - snow" },
-  { "id": 38, "kana": "よ", "romaji": "yo", "example": "よる (yoru) - night" },
-
+  {
+    "id": 37,
+    "kana": "ゆ",
+    "romaji": "yu",
+    "example": "ゆき (yuki) - snow",
+    "img": "../Assets/hiragana/yu.gif",
+    "mnemonic": "Looks like a U-turn — 'yu' for U"
+  },
+  {
+    "id": 38,
+    "kana": "よ",
+    "romaji": "yo",
+    "example": "よる (yoru) - night",
+    "img": "../Assets/hiragana/yo.gif",
+    "mnemonic": "Looks like a yo-yo — 'yo' for yo-yo"
+  },
   {
     "id": 39,
     "kana": "ら",
     "romaji": "ra",
-    "example": "らいおん (raion) - lion"
+    "example": "らいおん (raion) - lion",
+    "img": "../Assets/hiragana/ra.gif",
+    "mnemonic": "Looks like a rabbit’s ear — 'ra' for rabbit"
   },
   {
     "id": 40,
     "kana": "り",
     "romaji": "ri",
-    "example": "りす (risu) - squirrel"
+    "example": "りす (risu) - squirrel",
+    "img": "../Assets/hiragana/ri.gif",
+    "mnemonic": "Looks like reeds — 'ri' for reed"
   },
   {
     "id": 41,
     "kana": "る",
     "romaji": "ru",
-    "example": "るす (rusu) - absence"
+    "example": "るす (rusu) - absence",
+    "img": "../Assets/hiragana/ru.gif",
+    "mnemonic": "Looks like a loop — 'ru' for ruby ring"
   },
   {
     "id": 42,
     "kana": "れ",
     "romaji": "re",
-    "example": "れいぞうこ (reizouko) - refrigerator"
+    "example": "れいぞうこ (reizouko) - refrigerator",
+    "img": "../Assets/hiragana/re.gif",
+    "mnemonic": "Looks like a raindrop — 're' for rain"
   },
   {
     "id": 43,
     "kana": "ろ",
     "romaji": "ro",
-    "example": "ろうそく (rousoku) - candle"
+    "example": "ろうそく (rousoku) - candle",
+    "img": "../Assets/hiragana/ro.gif",
+    "mnemonic": "Looks like a road — 'ro' for road"
   },
-
   {
     "id": 44,
     "kana": "わ",
     "romaji": "wa",
-    "example": "わに (wani) - crocodile"
+    "example": "わに (wani) - crocodile",
+    "img": "../Assets/hiragana/wa.gif",
+    "mnemonic": "Looks like a wave — 'wa' for water"
   },
   {
     "id": 45,
     "kana": "を",
     "romaji": "wo",
-    "example": "パンをたべる (pan wo taberu) - eat bread"
+    "example": "パンをたべる (pan wo taberu) - eat bread",
+    "img": "../Assets/hiragana/wo.gif",
+    "mnemonic": "Looks like a fish hook — 'woah! I caught something'"
   },
-  { "id": 46, "kana": "ん", "romaji": "n", "example": "ほん (hon) - book" }
+  {
+    "id": 46,
+    "kana": "ん",
+    "romaji": "n",
+    "example": "ほん (hon) - book",
+    "img": "../Assets/hiragana/n.gif",
+    "mnemonic": "Looks like an 'n' shape"
+  }
 ]
