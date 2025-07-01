@@ -1,5 +1,11 @@
+import QuizHomepage from "./QuizHomepage";
+
 function Quiz() {
-  return <div>This is Quiz Page</div>;
+  return (
+    <div>
+      <QuizHomepage />
+    </div>
+  );
 }
 
 export default Quiz;

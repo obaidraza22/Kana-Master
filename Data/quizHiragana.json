@@ -1,0 +1,324 @@
+[
+  {
+    "id": 1,
+    "kana": "あ",
+    "question": "What is the reading of this character?",
+    "options": ["a", "ne", "yu", "wo"],
+    "answer": "a"
+  },
+  {
+    "id": 2,
+    "kana": "い",
+    "question": "What is the reading of this character?",
+    "options": ["yo", "i", "ya", "fu"],
+    "answer": "i"
+  },
+  {
+    "id": 3,
+    "kana": "う",
+    "question": "What is the reading of this character?",
+    "options": ["re", "u", "ho", "a"],
+    "answer": "u"
+  },
+  {
+    "id": 4,
+    "kana": "え",
+    "question": "What is the reading of this character?",
+    "options": ["ko", "ni", "e", "ta"],
+    "answer": "e"
+  },
+  {
+    "id": 5,
+    "kana": "お",
+    "question": "What is the reading of this character?",
+    "options": ["o", "to", "ha", "no"],
+    "answer": "o"
+  },
+  {
+    "id": 6,
+    "kana": "か",
+    "question": "What is the reading of this character?",
+    "options": ["he", "i", "ka", "ku"],
+    "answer": "ka"
+  },
+  {
+    "id": 7,
+    "kana": "き",
+    "question": "What is the reading of this character?",
+    "options": ["fu", "tsu", "ki", "u"],
+    "answer": "ki"
+  },
+  {
+    "id": 8,
+    "kana": "く",
+    "question": "What is the reading of this character?",
+    "options": ["shi", "wo", "ku", "yo"],
+    "answer": "ku"
+  },
+  {
+    "id": 9,
+    "kana": "け",
+    "question": "What is the reading of this character?",
+    "options": ["ri", "ke", "ro", "to"],
+    "answer": "ke"
+  },
+  {
+    "id": 10,
+    "kana": "こ",
+    "question": "What is the reading of this character?",
+    "options": ["tsu", "ku", "ko", "na"],
+    "answer": "ko"
+  },
+  {
+    "id": 11,
+    "kana": "さ",
+    "question": "What is the reading of this character?",
+    "options": ["so", "se", "chi", "sa"],
+    "answer": "sa"
+  },
+  {
+    "id": 12,
+    "kana": "し",
+    "question": "What is the reading of this character?",
+    "options": ["no", "ku", "sa", "shi"],
+    "answer": "shi"
+  },
+  {
+    "id": 13,
+    "kana": "す",
+    "question": "What is the reading of this character?",
+    "options": ["te", "mi", "nu", "su"],
+    "answer": "su"
+  },
+  {
+    "id": 14,
+    "kana": "せ",
+    "question": "What is the reading of this character?",
+    "options": ["se", "he", "no", "ku"],
+    "answer": "se"
+  },
+  {
+    "id": 15,
+    "kana": "そ",
+    "question": "What is the reading of this character?",
+    "options": ["ra", "ne", "so", "a"],
+    "answer": "so"
+  },
+  {
+    "id": 16,
+    "kana": "た",
+    "question": "What is the reading of this character?",
+    "options": ["he", "ta", "ka", "te"],
+    "answer": "ta"
+  },
+  {
+    "id": 17,
+    "kana": "ち",
+    "question": "What is the reading of this character?",
+    "options": ["sa", "ma", "wo", "chi"],
+    "answer": "chi"
+  },
+  {
+    "id": 18,
+    "kana": "つ",
+    "question": "What is the reading of this character?",
+    "options": ["sa", "ko", "tsu", "su"],
+    "answer": "tsu"
+  },
+  {
+    "id": 19,
+    "kana": "て",
+    "question": "What is the reading of this character?",
+    "options": ["te", "ro", "me", "shi"],
+    "answer": "te"
+  },
+  {
+    "id": 20,
+    "kana": "と",
+    "question": "What is the reading of this character?",
+    "options": ["fu", "ko", "to", "u"],
+    "answer": "to"
+  },
+  {
+    "id": 21,
+    "kana": "な",
+    "question": "What is the reading of this character?",
+    "options": ["fu", "mi", "na", "he"],
+    "answer": "na"
+  },
+  {
+    "id": 22,
+    "kana": "に",
+    "question": "What is the reading of this character?",
+    "options": ["wa", "ni", "no", "he"],
+    "answer": "ni"
+  },
+  {
+    "id": 23,
+    "kana": "ぬ",
+    "question": "What is the reading of this character?",
+    "options": ["o", "nu", "ma", "ko"],
+    "answer": "nu"
+  },
+  {
+    "id": 24,
+    "kana": "ね",
+    "question": "What is the reading of this character?",
+    "options": ["so", "he", "ne", "ma"],
+    "answer": "ne"
+  },
+  {
+    "id": 25,
+    "kana": "の",
+    "question": "What is the reading of this character?",
+    "options": ["no", "me", "se", "ra"],
+    "answer": "no"
+  },
+  {
+    "id": 26,
+    "kana": "は",
+    "question": "What is the reading of this character?",
+    "options": ["ru", "shi", "ro", "ha"],
+    "answer": "ha"
+  },
+  {
+    "id": 27,
+    "kana": "ひ",
+    "question": "What is the reading of this character?",
+    "options": ["hi", "fu", "se", "to"],
+    "answer": "hi"
+  },
+  {
+    "id": 28,
+    "kana": "ふ",
+    "question": "What is the reading of this character?",
+    "options": ["a", "ku", "u", "fu"],
+    "answer": "fu"
+  },
+  {
+    "id": 29,
+    "kana": "へ",
+    "question": "What is the reading of this character?",
+    "options": ["ni", "yo", "ri", "he"],
+    "answer": "he"
+  },
+  {
+    "id": 30,
+    "kana": "ほ",
+    "question": "What is the reading of this character?",
+    "options": ["su", "ka", "a", "ho"],
+    "answer": "ho"
+  },
+  {
+    "id": 31,
+    "kana": "ま",
+    "question": "What is the reading of this character?",
+    "options": ["ko", "ma", "ro", "yo"],
+    "answer": "ma"
+  },
+  {
+    "id": 32,
+    "kana": "み",
+    "question": "What is the reading of this character?",
+    "options": ["te", "mi", "na", "ni"],
+    "answer": "mi"
+  },
+  {
+    "id": 33,
+    "kana": "む",
+    "question": "What is the reading of this character?",
+    "options": ["shi", "o", "mu", "fu"],
+    "answer": "mu"
+  },
+  {
+    "id": 34,
+    "kana": "め",
+    "question": "What is the reading of this character?",
+    "options": ["wo", "ru", "no", "me"],
+    "answer": "me"
+  },
+  {
+    "id": 35,
+    "kana": "も",
+    "question": "What is the reading of this character?",
+    "options": ["ni", "mo", "ya", "ta"],
+    "answer": "mo"
+  },
+  {
+    "id": 36,
+    "kana": "や",
+    "question": "What is the reading of this character?",
+    "options": ["no", "ru", "ya", "shi"],
+    "answer": "ya"
+  },
+  {
+    "id": 37,
+    "kana": "ゆ",
+    "question": "What is the reading of this character?",
+    "options": ["he", "u", "yu", "ra"],
+    "answer": "yu"
+  },
+  {
+    "id": 38,
+    "kana": "よ",
+    "question": "What is the reading of this character?",
+    "options": ["yo", "wo", "ku", "ri"],
+    "answer": "yo"
+  },
+  {
+    "id": 39,
+    "kana": "ら",
+    "question": "What is the reading of this character?",
+    "options": ["so", "se", "ra", "yu"],
+    "answer": "ra"
+  },
+  {
+    "id": 40,
+    "kana": "り",
+    "question": "What is the reading of this character?",
+    "options": ["e", "shi", "ri", "ke"],
+    "answer": "ri"
+  },
+  {
+    "id": 41,
+    "kana": "る",
+    "question": "What is the reading of this character?",
+    "options": ["ru", "ko", "e", "so"],
+    "answer": "ru"
+  },
+  {
+    "id": 42,
+    "kana": "れ",
+    "question": "What is the reading of this character?",
+    "options": ["re", "nu", "ya", "n"],
+    "answer": "re"
+  },
+  {
+    "id": 43,
+    "kana": "ろ",
+    "question": "What is the reading of this character?",
+    "options": ["fu", "ro", "ko", "yo"],
+    "answer": "ro"
+  },
+  {
+    "id": 44,
+    "kana": "わ",
+    "question": "What is the reading of this character?",
+    "options": ["ya", "re", "u", "wa"],
+    "answer": "wa"
+  },
+  {
+    "id": 45,
+    "kana": "を",
+    "question": "What is the reading of this character?",
+    "options": ["ni", "shi", "wo", "ro"],
+    "answer": "wo"
+  },
+  {
+    "id": 46,
+    "kana": "ん",
+    "question": "What is the reading of this character?",
+    "options": ["ro", "mo", "e", "n"],
+    "answer": "n"
+  }
+]

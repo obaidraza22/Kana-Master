@@ -4,6 +4,7 @@ import Katakana from "./Components/Katakana";
 import Quiz from "./Components/Quiz";
 import Homepage from "./Components/Homepage";
 import Path from "./Components/Path";
+import Questions from "./Components/Questions";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
         <Route path="/katakana/:kana" element={<Katakana />} />
         <Route path="/path" element={<Path />} />
         <Route path="quiz" element={<Quiz />} />
+        <Route path="questions" element={<Questions />} />
       </Routes>
     </BrowserRouter>
   );
